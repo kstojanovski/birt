@@ -1,4 +1,4 @@
-package name.stojanok.dzone.anotherarchitecture;
+package name.stojanok.dzone.dynamicreports;
 
 import java.util.logging.Level;
 
